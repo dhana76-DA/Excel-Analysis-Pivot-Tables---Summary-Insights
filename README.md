@@ -1,92 +1,26 @@
 # Excel-Analysis-Pivot-Tables---Summary-Insights
 
 Sales Data Analysis & Pivot Dashboard (Excel)
-📌 Project Overview
+I worked on an end-to-end sales data analysis project using Microsoft Excel, focusing on data cleaning, analysis, visualization, and business insight generation.
 
-This project demonstrates a complete Excel-based data analysis workflow, starting from cleaned raw data to interactive pivot dashboards and business insights. The objective is to analyze sales performance across categories, regions, and customer segments using Pivot Tables, Pivot Charts, slicers, and calculated metrics.
+I began by reviewing the raw dataset and resolving data quality issues, including removing blank values, correcting date formats, and standardizing inconsistent category names. To ensure data integrity, a backup of the original dataset was maintained before applying transformations. The cleaned dataset was then converted into an Excel Table, enabling dynamic updates and ensuring all analyses automatically adjusted when new data was added.
 
-🧹 Data Preparation
+Using Pivot Tables, I analyzed total sales by category to identify key revenue-generating segments and ranked categories from highest to lowest sales. I also created additional Pivot Tables to evaluate sales performance by region and customer segment, applying conditional formatting to highlight top-performing regions.
 
-Opened the dataset and cleaned obvious data quality issues:
+To enhance analytical depth, I created a calculated column for Profit Margin (Profit / Sales) and analyzed profitability trends across categories and regions. Interactive slicers were added for Region, Category, and Segment, allowing stakeholders to explore the data dynamically, similar to business intelligence dashboards.
 
-Removed blank rows and values
+I further developed Pivot Charts to visualize sales distribution and compare category performance. Key business insights were documented directly below the Pivot Tables to support analytical storytelling and data-driven decision-making. Finally, the complete dashboard was compiled into a structured report and exported as a PDF for easy sharing and documentation.
 
-Corrected incorrect date formats
+Key Skills Demonstrated
 
-Standardized inconsistent category names
+Data cleaning and preparation
 
-Preserved raw data by maintaining a backup sheet
+Pivot Tables and Pivot Charts
 
-Converted the cleaned dataset into an Excel Table to ensure Pivot Tables automatically update when new data is added
-
-📈 Pivot Table Analysis
-
-Created a Pivot Table summarizing Total Sales by Category
-
-Sorted categories from highest to lowest sales to identify business-driving segments
-
-Built a second Pivot Table showing Sales by Region and Segment
-
-Applied conditional formatting to highlight top-performing regions visually
-
-🎛️ Interactivity & Advanced Metrics
-
-Added Slicers for:
-
-Region
-
-Category
-
-Segment
-enabling interactive, BI-style dashboard filtering
-
-Created a calculated column:
-
-Profit Margin = Profit / Sales
-
-Analyzed average Profit Margin by Category and Region using Pivot Tables
-
-📊 Visualization
-
-Designed Pivot Charts to:
-
-Visualize sales distribution
-
-Compare performance across categories
-
-Charts dynamically update with slicer selections
-
-🧠 Business Insights
-
-Added 3–5 key insights below Pivot Tables to support analytical storytelling
-(e.g., “West region contributes 38% of total sales”)
-
-Insights focus on:
-
-Top-performing regions
-
-High-value categories
-
-Segment-level performance
-
-Profitability patterns
-
-📄 Final Output
-
-Compiled all Pivot Tables, charts, slicers, and insights into a single Pivot Report sheet
-
-Exported the final report as a PDF for easy sharing and documentation
-
-✅ Key Skills Demonstrated
-
-Data cleaning and preparation in Excel
-
-Pivot Tables & Pivot Charts
-
-Calculated fields and profit analysis
+Calculated metrics and profitability analysis
 
 Interactive dashboards using slicers
 
-Business insight generation and storytelling
+Business insight generation and reporting
 
-Professional reporting and documentation
+Professional documentation and presentation
